@@ -35,5 +35,8 @@ This Power BI dashboard analyzes sales data for Blinkit — India's last-minute 
 
 ---
 
+## License
+This project is licensed under the MIT License.
+
 > Feel free to clone or use for learning.  
 > ©️ 2025 [Hema Malik]
