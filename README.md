@@ -36,4 +36,4 @@ This Power BI dashboard analyzes sales data for Blinkit — India's last-minute 
 ---
 
 > Feel free to clone or use for learning.  
-> ©️ 2025 [Your Name]
+> ©️ 2025 [Hema Malik]
