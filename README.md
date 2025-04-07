@@ -4,12 +4,12 @@ This Power BI dashboard analyzes sales data for Blinkit — India's last-minute 
 
 ## 📊 Features
 
-- Total Sales: $1M+
-- Avg Sales: $141 | Avg Rating: 3.9
-- No. of Items: 8523
-- Filter by: Item Type, Outlet Size, Location
-- Visuals: Donut Charts, Bar Charts, Time Series Line Graphs, KPI Tiles
-- Insights: Best performing outlet types, sales trends, fat content analysis, and more.
+- **Total Sales**: $1M+
+- **Avg Sales**: $141 | **Avg Rating**: 3.9
+- **No. of Items**: 8523
+- **Filter by**: Item Type, Outlet Size, Location
+- **Visuals**: Donut Charts, Bar Charts, Time Series Line Graphs, KPI Tiles
+- **Insights**: Best performing outlet types, sales trends, fat content analysis, and more.
 
 ## 🖼️ Dashboard Preview
 
@@ -22,9 +22,10 @@ This Power BI dashboard analyzes sales data for Blinkit — India's last-minute 
 - DAX & Power Query
 - Data Cleaning and Transformation
 
-## 📁 File
+## 📁 Files
 
-- blinkit-dashboard.pbix – Power BI project file
+- **blinkit-dashboard.pbix** – Power BI project file
+- **BlinkIT Grocery Data.xlsx** – Dataset file
 
 ## 🧠 Learnings
 
